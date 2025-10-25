@@ -2,9 +2,9 @@
 🎓 **Computer Science and Engineering Student** at **Thapar Institute of Engineering & Technology**  
 
 ## 📊 GitHub Stats
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavisingla&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavisingla&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavisingla&theme=tokyonight)
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavisingla222&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavisingla222&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavisingla222&theme=tokyonight)
 
 ## 🛠️ Tech Stack
 **Languages & Frameworks:**  
