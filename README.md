@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I am Vaishnavi Singla👋
+🎓 **College Student at Thapar Institute of Engineering & Technology**  
+
 
 <!--
 **vaishnavisingla222/vaishnavisingla222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
