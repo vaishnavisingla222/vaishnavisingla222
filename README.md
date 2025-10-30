@@ -14,7 +14,6 @@
 ## 💬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-singla-8193442a9/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vaishnavi_Singla/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishnavisingla222)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsingla_be24@thapar.edu)
 <!--
 **vaishnavisingla222/vaishnavisingla222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
