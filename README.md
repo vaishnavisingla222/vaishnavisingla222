@@ -16,5 +16,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsingla_be24@thapar.edu)
 
 ## 📈 Commitment Graph
-A visual summary of my daily commitments / activity.
 ![Vaishnavi's Commitment Graph](https://activity-graph.herokuapp.com/graph?username=vaishnavisingla222&theme=github&area=true&hide_border=true&color=0077B5)
