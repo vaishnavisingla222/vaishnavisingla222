@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavisingla222\&show_icons=true\&theme=tokyonight\&cache_seconds=86400)
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavisingla222&show_icons=true\&theme=tokyonight\&cache_seconds=86400)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavisingla222\&layout=compact\&theme=tokyonight\&cache_seconds=86400)
 
