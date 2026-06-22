@@ -55,7 +55,7 @@
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
-| **[Digital Payment Fraud Detection System](https://github.com/yourusername/Digital-Payment-Fraud-Detection)** | Identify suspicious transactions using SQL triggers, procedures, cursors, and analytical queries| `Oracle SQL` `PL/SQL`|
+| **[Digital Payment Fraud Detection System](https://github.com/vaishnavisingla222/Digital_Payment_Fraud_Detection)** | Identify suspicious transactions using SQL triggers, procedures, cursors, and analytical queries| `Oracle SQL` `PL/SQL`|
 | **[Loan Approval Prediction](https://github.com/vaishnavisingla222/loan_approval_ml)** | Supervised Machine Learning project that predicts whether a loan application will be approved or rejected. | `Python` `Scikit - Learn` `Streamlit` |
 
 
