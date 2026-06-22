@@ -49,6 +49,18 @@
 
 ---
 
+## Projects
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| **[Digital Payment Fraud Detection System](https://github.com/yourusername/Digital-Payment-Fraud-Detection)** | Identify suspicious transactions using SQL triggers, procedures, cursors, and analytical queries| `Oracle SQL` `PL/SQL`|
+| **[Loan Approval Prediction](https://github.com/vaishnavisingla222/loan_approval_ml)** | Supervised Machine Learning project that predicts whether a loan application will be approved or rejected. | `Python` `Scikit - Learn` `Streamlit` |
+
+
+---
+
 ## 💬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vaishnavi-singla-8193442a9/)
