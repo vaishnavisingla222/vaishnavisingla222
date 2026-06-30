@@ -55,6 +55,7 @@
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
+| **[PCOS_DETECTION_DL](https://github.com/vaishnavisingla222/PCOS_Detection_DL)** | A deep learning-based system for the automated detection of Polycystic Ovary Syndrome (PCOS) using both medical tabular and ultrasonic imaging data. | `Python` `Scikit - Learn` `XGBoost` `Tensorflow` `Open-CV`|
 | **[Digital Payment Fraud Detection System](https://github.com/vaishnavisingla222/Digital_Payment_Fraud_Detection)** | Identify suspicious transactions using SQL triggers, procedures, cursors, and analytical queries| `Oracle SQL` `PL/SQL`|
 | **[Loan Approval Prediction](https://github.com/vaishnavisingla222/loan_approval_ml)** | Supervised Machine Learning project that predicts whether a loan application will be approved or rejected. | `Python` `Scikit - Learn` `Streamlit` |
 
