@@ -58,6 +58,7 @@
 | **[PCOS_DETECTION_ML_DL](https://github.com/vaishnavisingla222/PCOS_Detection_ML_DL)** | A ML & DL -based system for the automated detection of PCOS using both medical tabular and ultrasonic imaging data. | `Python` `Scikit - Learn` `XGBoost` `Tensorflow` `Open-CV`|
 | **[Digital Payment Fraud Detection System](https://github.com/vaishnavisingla222/Digital_Payment_Fraud_Detection)** | Identify suspicious transactions using SQL triggers, procedures, cursors, and analytical queries| `Oracle SQL` `PL/SQL`|
 | **[Loan Approval Prediction](https://github.com/vaishnavisingla222/loan_approval_ml)** | Supervised Machine Learning project that predicts whether a loan application will be approved or rejected. | `Python` `Scikit - Learn` `Streamlit` |
+| **[vaishnavisingla222 | Portfolio](https://github.com/vaishnavisingla222/vaishnavi_singla_portfolio)** | Personal Portfolio Website showcasing my projects, skills, education, and achievements. | `HTML`, `CSS`, `JavaScript` |
 
 
 ---
