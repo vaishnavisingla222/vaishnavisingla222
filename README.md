@@ -55,7 +55,7 @@
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
-| **[SmartParkingReservationSystem](https://github.com/SiyaGarg9/SmartParkingReservationSystem)** | A smart parking reservation system. | `ReactJS` `FastAPI` `PostgreSQL`|
+| **[SmartParkingReservationSystem](https://github.com/SiyaGarg9/SmartParkingReservationSystem)** |Web-based platform, simplifying parking by enabling users to find available slots and book parking spaces conveniently, while providing admins with efficient parking management tools | `ReactJS` `FastAPI` `PostgreSQL`|
 | **[BharatSafar](https://github.com/vaishnavisingla222/BharatSafar)** | A smart India travel planner featuring destination discovery, trip planning, budget estimation, festival exploration, interactive maps, and saved itineraries. | `ReactJS` `CSS3` `Leaflet`|
 | **[PCOS_DETECTION_ML_DL](https://github.com/vaishnavisingla222/PCOS_Detection_ML_DL)** | A ML & DL -based system for the automated detection of PCOS using both medical tabular and ultrasonic imaging data. | `Python` `Scikit - Learn` `XGBoost` `Tensorflow` `Open-CV`|
 | **[Digital Payment Fraud Detection System](https://github.com/vaishnavisingla222/Digital_Payment_Fraud_Detection)** | Identify suspicious transactions using SQL triggers, procedures, cursors, and analytical queries| `Oracle SQL` `PL/SQL`|
